@@ -36,8 +36,8 @@ pkg install nodejs git -y
 
 ### **2️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/devrock07/RockV3-Selfbot.git
-cd RockV3-Selfbot
+git clone https://github.com/browished/rocksb-v3.git
+cd rocksb-v3
 ```
 > If you don’t have Git, download the ZIP from GitHub manually, extract it, and navigate to the folder.  
 

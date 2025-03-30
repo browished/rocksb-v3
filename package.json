@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "axios": "^1.8.4",
+    "discord.js-selfbot-v13": "^3.6.1",
+    "express": "^4.21.2",
+    "mathjs": "^14.4.0",
+    "node-fetch": "^3.3.2",
+    "socket.io": "^4.8.1"
+  }
+}
